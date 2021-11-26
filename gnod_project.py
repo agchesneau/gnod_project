@@ -59,6 +59,6 @@ while (i == 'yes') or (i =='y'):
         except :
             print('This song can not be found in the database.')
     print()
-    i = input('Do you want to try again ? Type yes or no :      ')
+    i = input('Do you want to try again ? Type yes or no : ')
     
 
